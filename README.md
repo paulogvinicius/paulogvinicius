@@ -1,16 +1,18 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Paulo Vinícius.
+Olá, eu sou o Paulo Vinícius. 😄
+
+//COLAR UMA IMAGEM
 
 ## Meus hobbies
 
-- Ler
+- Ler 📖
 - Academia
 
 ## Atualmente estudando
 
-- JavaScript
-- Python
+- JavaScrip 
+- Python 🐍
 
 ## Meus contatos
 
