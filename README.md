@@ -10,7 +10,7 @@ Olá, eu sou o Paulo Vinícius.
 ## Atualmente estudando
 
 - JavaScript
-- Python
+- React.js
 
 ## Meus contatos
 
