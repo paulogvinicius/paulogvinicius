@@ -11,9 +11,9 @@ Olá, eu sou o Paulo Vinícius.
 
 - JavaScript
 - React.js
-
+- Node.js
 ## Meus contatos
 
 - Twitter @paulogvinicius
 - Github @paulogvinicius
-- Instagram @paulogvinicius
+- Instagram @paulovinicius_10
