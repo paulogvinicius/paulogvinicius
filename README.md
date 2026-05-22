@@ -1,20 +1,72 @@
+# Olá, eu sou o Paulo Vinicius 👋
 
-# Hello word, eu sou o Paulo! 👋
+Desenvolvedor Back-end em formação, apaixonado por tecnologia, arquitetura de sistemas e boas práticas de desenvolvimento. Atualmente curso Engenharia de Software pela Estácio e também sou técnico em Desenvolvimento de Sistemas pelo Senac.
 
+Tenho experiência prévia com suporte técnico, manutenção de computadores e infraestrutura, o que me proporcionou uma visão prática sobre resolução de problemas, organização e funcionamento de sistemas no ambiente corporativo.
 
-## 🚀 Sobre mim
-Me chamo Paulo Vinicius, graduando no curso de Engenharia de Software pela Estácio e desenvolvedor web Back-end. Desenvolvo sistemas e lógica de programação para garantir o funcionamento eficiente de servidores e bancos de dados. Tenho uma trajetória de cerca de 2 anos trabalhando com suporte técnico e manutenção de computadores, o que me tornou um profissional dedicado e organizado. Hoje na área de desenvolvimento, vivo o aprendizado contínuo, focando em tecnologias relacionadas ao Back-end, como Node.js e Python. Busco oportunidades no mercado como dev e, em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
-## 🛠 Habilidades
-Javascript, Node.js, HTML, CSS...
+Hoje meu foco está no desenvolvimento Back-end, utilizando tecnologias modernas como Java, Kotlin, Spring Boot, TypeScript e Python, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens de Programação
+- Java
+- Kotlin
+- TypeScript
+- Python
+- SQL
+
+### ⚙️ Frameworks e Bibliotecas
+- Spring Boot
+
+### ☁️ Tecnologias e Ferramentas
+- AWS
+- Git
+- Linux
+
+### 🧠 Boas Práticas
+- SOLID
+- K.I.S.S
+- Clean Code
+
+---
+
+## 🎓 Formação Acadêmica
+
+### 📚 Universidade Estácio de Sá
+**Bacharelado em Engenharia de Software**
+
+### 📚 Senac
+**Técnico em Desenvolvimento de Sistemas**
+
+---
+
+## 🏆 Certificações
+
+- CompTIA Security+
+- Google Cybersecurity Professional Certificate
+
+---
+
+## 💼 Objetivo Profissional
+
+Busco oportunidades como Desenvolvedor Back-end, com interesse em desenvolvimento de APIs, arquitetura de sistemas, cloud computing e engenharia de software. Meu objetivo é evoluir continuamente como desenvolvedor e contribuir em projetos que gerem impacto real.
+
+---
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pauloviniciusdev.com.br/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-vinicius-da-silva-41895624b/)
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.pauloviniciusdev.com.br/)
 
-## Outras informações
-👩‍💻 Fundador da @nunisoftware, Startup de tecnologia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-vinicius-da-silva-41895624b/)
 
-🧠 Estou aprendendo MySQL.
+---
 
+## 📌 Outras Informações
+
+🚀 Fundador da Nunisoftware, startup de tecnologia.
+
+📖 Aprendendo continuamente sobre desenvolvimento Back-end, arquitetura de software e cloud.
+
+⚡ Interesse em Java, Kotlin, APIs REST, AWS e sistemas escaláveis.
